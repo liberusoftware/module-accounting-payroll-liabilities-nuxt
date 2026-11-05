@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-payroll-liabilities-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-payroll-liabilities",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-payroll-liabilities-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/payroll-liabilities.md",
+  "presentationPlan": "projects/accounting/nuxt/payroll-liabilities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
